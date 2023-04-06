@@ -1,0 +1,2 @@
+deb https://dev.monetdb.org/downloads/deb/ jammy monetdb
+deb-src https://dev.monetdb.org/downloads/deb/ jammy monetdb
